@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "date":"28/10/2020",
+        "logo":"https://i.pinimg.com/originals/41/84/56/41845673072c6a3467807ea43e60eaf7.png",
+        "heading":"Case Study",
+        "subheading":"Amazon Gift",
+        "pay":"Pay",
+        "device":"Desktop - Mobile",
+        "color":"yellow"
+
+    },
+
+    {
+        "id":"2",
+        "date":"20/10/2020",
+        "logo":"https://i.pinimg.com/originals/41/84/56/41845673072c6a3467807ea43e60eaf7.png",
+        "heading":"Case Study",
+        "subheading":"Apple Gift",
+        "pay":"Payment",
+        "device":"Desktop - mobile",
+        "color":"White"
+
+    },
+
+    {
+        "id":"3",
+        "date":"17 Sep 2020",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+        "heading":"Case Study",
+        "subheading":"Apple Gift",
+        "pay":"Payment",
+        "device":"MacOS - Mobile",
+        "color":"White"
+
+    }
+]
